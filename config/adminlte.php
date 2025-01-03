@@ -392,6 +392,20 @@ return [
             'icon_color' => 'cyan',
             'url' => '#',
         ],
+        [
+            'text' => 'Help',
+            'icon' => 'fas fa-fw fa-info',
+            'submenu' => [
+                [
+                    'text' => 'AdminLTE',
+                    'url' => 'https://jeroennoten.github.io/Laravel-AdminLTE/',
+                ],
+                [
+                    'text' => 'Spatie permissions',
+                    'url' => 'https://spatie.be/docs/laravel-permission/v6/introduction',
+                ],
+            ],
+        ],
     ],
 
     /*
