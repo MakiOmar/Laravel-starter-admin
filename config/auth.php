@@ -111,5 +111,12 @@ return [
     */
 
     'password_timeout' => 10800,
+    'views' => [
+        'login' => 'adminlte::auth.login',
+        'register' => 'adminlte::auth.register',
+        'passwords.email' => 'adminlte::auth.passwords.email',
+        'passwords.reset' => 'adminlte::auth.passwords.reset',
+    ],
+
 
 ];
