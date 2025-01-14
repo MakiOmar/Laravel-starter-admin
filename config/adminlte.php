@@ -404,6 +404,14 @@ return [
                     'text' => 'Spatie permissions',
                     'url' => 'https://spatie.be/docs/laravel-permission/v6/introduction',
                 ],
+                [
+                    'text' => 'Spatie settings',
+                    'url' => 'https://github.com/spatie/laravel-settings',
+                ],
+                [
+                    'text' => 'Debugger',
+                    'url' => 'https://github.com/barryvdh/laravel-debugbar',
+                ],
             ],
         ],
     ],
