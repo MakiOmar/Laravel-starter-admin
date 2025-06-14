@@ -412,6 +412,10 @@ return [
                     'text' => 'Debugger',
                     'url' => 'https://github.com/barryvdh/laravel-debugbar',
                 ],
+                [
+                    'text' => 'Notes',
+                    'route' => 'help',
+                ],
             ],
         ],
     ],
